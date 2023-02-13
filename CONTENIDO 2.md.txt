@@ -1,0 +1,14 @@
+Unidad 2
+
+Conceptos básicos para empezar a programar
+Variables
+Tipos de datos numéricos
+Sintáxis en Javascript
+Operaciones numéricas
+Operaciones comparativas
+Datos lógicos o booleanos
+Operaciones lógicas
+Tipos de carácter
+Cadena de caracteres
+Estructuras de control condicionales
+Aplicación: 
